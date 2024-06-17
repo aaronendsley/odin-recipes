@@ -1,0 +1,22 @@
+h1{
+    color:#130081;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:#130081;
+    font-size: 1.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+}
+
+p{
+    padding: 20px;
+}
